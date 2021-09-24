@@ -10,7 +10,6 @@ public class ProgrammingTheorems {
         return sum;
     }
 
-
     public static int sum2(int[] array) {
         int sum = 0;
         for (int i = 0; i < array.length; ) {
